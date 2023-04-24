@@ -1,4 +1,4 @@
-## Project Description
+## CS767 - Music Genre Recognition using CNNs on GTZAN + Spotify
 
 The goal of this project is to be able to **detect the genre of a song by training a Convolutional Neural Network (CNN)**.
 
