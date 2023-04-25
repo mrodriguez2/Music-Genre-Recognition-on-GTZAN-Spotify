@@ -1,5 +1,9 @@
 ## CS767 - Music Genre Recognition using CNNs on GTZAN + Spotify
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/400px-Spectrogram-19thC.png" />
+</p>
+
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/400px-Spectrogram-19thC.png)
 
 The goal of this project is to be able to **detect the genre of a song by training a Convolutional Neural Network (CNN)**.
