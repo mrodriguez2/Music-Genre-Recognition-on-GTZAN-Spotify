@@ -4,8 +4,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/400px-Spectrogram-19thC.png" />
 </p>
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/400px-Spectrogram-19thC.png)
-
 The goal of this project is to be able to **detect the genre of a song by training a Convolutional Neural Network (CNN)**.
 
 To do this, we will use the GTZAN dataset which consists of 900 **30-second, 22kHz, Mono, 16-bit .WAV files**, belonging to 9 different genres from **2000-2001**:
