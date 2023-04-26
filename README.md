@@ -28,6 +28,6 @@ We will use this base dataset to find the optimal neural network structure. From
 
 In particular, the two genres that we will include will be ‘Rap’ and ‘Brazilian Funk’. ‘Rap’ because it is one of the biggest music genres out there and it would be interesting to build a genre from scratch using Spotify and see how it performs versus the original GTZAN dataset.
 
-**Brazilian Funk** for two purposes: first and foremost, it is a wink to my **sweet Brazilian life partner**. Secondly, it is a genre that is usually used to remix popular songs and it will be an interesting observation to compare our model with the original song vs the remixed, Brazilian Funk, version of the song. The inspiration behind this was **Rihanna’s Brazilian Funk interpretation of her hit ‘Rude Boy’ at this year’s Super Bowl**.
+**Brazilian Funk** for two purposes: first and foremost, it is a wink to my **sweet Brazilian life partner, Sofia**. Secondly, it is a genre that is usually used to remix popular songs and it will be an interesting observation to compare our model with the original song vs the remixed, Brazilian Funk, version of the song. The inspiration behind this was **Rihanna’s Brazilian Funk interpretation of her hit ‘Rude Boy’ at this year’s Super Bowl**.
 
 Most importantly however, we hope to use this project as a learning opportunity to improve our knowledge on Machine Learning, Artificial Intelligence and Neural Networks.
